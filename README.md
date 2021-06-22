@@ -1,6 +1,7 @@
 # Healthlink-Dashboard
 -Dashboard Application Prototype for Healthlink <br>
--Graph for analysing DHA data  <br>
+-High Chart Graph for analysing DHA data  <br>
+-Express based server for fetching the content
 
 Application Link-> https://heathlink-dashboard.herokuapp.com/  <br>
 Application Screen-> <br>
